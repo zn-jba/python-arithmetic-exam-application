@@ -7,7 +7,7 @@ My solution for the [**Arithmetic Exam Application**][project] project in the [*
 [track]: https://hyperskill.org/tracks/2
 
 ## Functionality
-Do two tests in arithmetics and save the results to a file to compare with your friends.
+Do two tests in arithmetic math and save the results to a file to compare with your friends.
 Test levels:
 * Simple operations with numbers 2-9
 * Integral squares with numbers 11-29
