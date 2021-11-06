@@ -32,9 +32,9 @@ class ArithmeticExam:
         "+": Calculator.add,
         "-": Calculator.subtract,
         "*": Calculator.multiply,
-        # "/": Calculator.divide,
-        # "%": Calculator.modulus,
-        # "**": Calculator.exponentiate,
+        "/": Calculator.divide,
+        "%": Calculator.modulus,
+        "**": Calculator.exponentiate,
     }
     LEVEL_MESSAGE = ("Which level do you want? Enter a number:\n"
                      "1 - simple operations with numbers 2-9\n"
